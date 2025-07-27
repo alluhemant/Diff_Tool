@@ -1,0 +1,14 @@
+dotenv~=0.9.9
+httpx>=0.23.0
+pydantic~=2.11.7
+streamlit~=1.46.1
+fastapi~=0.116.0
+deepdiff~=8.5.0
+uvicorn~=0.35.0
+requests~=2.32.4
+setuptools~=68.2.0
+pydantic-settings>=2.0
+sqlalchemy~=2.0.41
+passlib~=1.7.4
+python-dotenv~=1.1.1
+locust~=2.37.12
